@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/j3y5k9kyoj5ulwg6/branch/master?svg=true)](https://ci.appveyor.com/project/AlinaChekrizova/postman-echo/branch/master)

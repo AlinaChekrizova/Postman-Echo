@@ -15,7 +15,7 @@ public class PostmanEchoTest {
                 .post("/post")
                 .then()
                 .statusCode(200)
-                .body("data", equalTo("Lorem ipsum dolor sit ameta"))
+                .body("data", equalTo("Lorem ipsum dolor sit amet"))
         ;
     }
 }
